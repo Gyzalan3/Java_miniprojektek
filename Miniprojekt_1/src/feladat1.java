@@ -1,5 +1,3 @@
-package Java_miniprojektek;
-
 public class feladat1 {
     public static void main(String[] args) {
         int n;
