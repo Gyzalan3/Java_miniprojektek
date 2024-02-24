@@ -10,10 +10,10 @@ public class feladat6 {
         }
     }
     public static void main(String[] args) {
-        int [] array1={0,10,23,30};
-        int [] array2={0,10,20,30};
+        int [] szam_tomb1={0,10,23,30};
+        int [] szam_tomb2={0,10,20,30};
 
-        System.out.println("Array1 és Array2 egyenlőek: " + ellenorzes(array1,array2));
+        System.out.println("Array1 és Array2 egyenlőek: " + ellenorzes(szam_tomb1,szam_tomb2));
 
     }
 
