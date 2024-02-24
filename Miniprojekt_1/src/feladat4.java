@@ -8,7 +8,7 @@ public class feladat4{
         int csillagok_szama = sc.nextInt();
 
         for (int i = 1; i <= csillagok_szama; i++) {
-            for (int j = 1; j <= i; j++) {
+            for(int j=0; j < i;j++) {
                 System.out.print("* ");
             }
             System.out.println();
