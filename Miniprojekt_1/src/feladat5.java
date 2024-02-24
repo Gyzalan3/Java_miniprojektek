@@ -1,0 +1,2 @@
+public class feladat5 {
+}
