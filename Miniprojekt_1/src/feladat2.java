@@ -1,4 +1,4 @@
-package Miniprojekt_1_hazi;
+
 import java.util.Scanner;
 
 public class feladat2 {
