@@ -1,4 +1,4 @@
-package Miniprojekt_1hazi;
+package Miniprojekt_1_hazi;
 import java.util.Arrays;
 
 public class feladat6 {
