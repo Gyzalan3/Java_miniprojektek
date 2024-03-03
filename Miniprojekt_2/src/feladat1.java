@@ -1,8 +1,8 @@
-package Miniprojekt_2_hazi;
-
 import java.util.Scanner;
 
 public class feladat1 {
+
+
     static void beker(String args) {
         int i = args.length();
         char elso = args.charAt(0);
