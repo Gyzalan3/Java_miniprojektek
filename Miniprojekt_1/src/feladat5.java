@@ -1,3 +1,4 @@
+package Miniprojekt_1hazi;
 public class feladat5 {
     private static boolean alfabetikus(String szoveg_str) {
 
