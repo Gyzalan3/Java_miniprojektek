@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e7f2f2d-05b7-4ac9-b418-2c6cd8377e0e" name="Changes" comment="" />
+    <list default="true" id="2e7f2f2d-05b7-4ac9-b418-2c6cd8377e0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/feladat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feladat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feladat5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feladat6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feladat7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feladat8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feladat9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feladat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/feladat2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2dB0BNPDA3VBlUO5OwkmVFkjPnv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,14 +40,74 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.feladat1.executor": "Run",
+    "Application.feladat2.executor": "Run",
+    "Application.feladat3.executor": "Run",
+    "Application.feladat4.executor": "Run",
+    "Application.feladat5.executor": "Run",
+    "Application.feladat6.executor": "Run",
+    "Application.feladat7.executor": "Run",
+    "Application.feladat8.executor": "Run",
+    "Application.feladat9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/user/Desktop/New folder/Java_miniprojektek/Miniprojekt_2/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.feladat9">
+    <configuration name="feladat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat5" />
+      <module name="Miniprojekt_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feladat6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat6" />
+      <module name="Miniprojekt_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feladat7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat7" />
+      <module name="Miniprojekt_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feladat8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat8" />
+      <module name="Miniprojekt_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feladat9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat9" />
+      <module name="Miniprojekt_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.feladat9" />
+        <item itemvalue="Application.feladat8" />
+        <item itemvalue="Application.feladat7" />
+        <item itemvalue="Application.feladat5" />
+        <item itemvalue="Application.feladat6" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -40,21 +123,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709466029192</updated>
+      <workItem from="1709466030258" duration="227000" />
+      <workItem from="1709805817540" duration="2941000" />
+      <workItem from="1710067865200" duration="3251000" />
+      <workItem from="1710086669075" duration="3984000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

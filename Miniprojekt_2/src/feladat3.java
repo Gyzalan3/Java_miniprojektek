@@ -1,20 +1,21 @@
 import java.util.Scanner;
 
-public class feladat2 {
+public class feladat3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Szo: ");
         String szo = sc.nextLine();
+        String ujszo = "";
 
-        StringBuilder modositottString = new StringBuilder();
+
         for (int i = 0; i < szo.length(); i++) {
             char szoChar = szo.charAt(i);
-            if (szoChar == 'a') {
-                modositottString.append("*");
-            } else {
-                modositottString.append(szoChar);
+            if (ujszo.indexOf(szoChar) < 0) {
+                ujszo += String.valueOf(szoChar);
+
             }
+            System.out.println(ujszo);
         }
-        System.out.println(modositottString);
     }
 }
+
